@@ -22,6 +22,6 @@ Ce projet implémente une méthode de décomposition en facteurs premiers d'enti
 Clonez le dépôt et exécutez le script avec Python 3.x.
 
 ```bash
-git clone https://github.com/ZitiixDevelopment/nom_du_depot.git
+git clone https://github.com/MatthieuFurcy/nom_du_depot.git
 cd nom_du_depot
 python3 votre_script.py
