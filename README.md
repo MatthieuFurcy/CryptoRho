@@ -5,7 +5,7 @@ Bienvenue dans ce projet GitHub consacré à l'algorithme de Pollard's Rho, util
 ## Structure du Projet
 
 - **`README.md`** : Ce fichier, contenant une vue d'ensemble du projet et des instructions pour son utilisation.
-- **`il était une fois les nombres premiers.pdf`** : Document LaTeX complet expliquant l'algorithme, les optimisations, et les fondements mathématiques sous forme de guide. Il est rédigé dans un style de type thèse, incluant des exemples illustratifs et des références académiques, pour fournir une compréhension poussée du sujet.
+- **`il était une fois les nombres premiers.pdf`** : Document LaTeX complet expliquant l'algorithme, les optimisations, et les fondements mathématiques sous forme de guide.
 - **`pollard.py`** : Script Python contenant l'implémentation de l'algorithme de Pollard's Rho avec les optimisations détaillées ci-dessous.
 
 ## Présentation de l'Algorithme
